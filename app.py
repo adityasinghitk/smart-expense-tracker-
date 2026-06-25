@@ -9,7 +9,7 @@ import mysql.connector
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Aditya@123",
+    password="*******",
     database="smart_expense_tracker"
 )
 cursor = conn.cursor()
